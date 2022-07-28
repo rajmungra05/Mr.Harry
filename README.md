@@ -1,2 +1,2 @@
 # Mr.Harry
-learning about C, C++, JAVA  
+learning about HTML, CSS, JAVA 
